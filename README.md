@@ -22,4 +22,10 @@ To personalize the site:
 2. Update the link URLs in the featured links section
 3. Change the accent colors in the embedded CSS if you want
 
+## ? How
+
+- I used Code OSS as my IDE
+- I used online tutorials and AI's help for CSS
+- I coded the HTML part myself and the CSS part alongside Copilot
+
 Thank you for using my website! <3
